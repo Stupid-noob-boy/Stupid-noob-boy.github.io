@@ -1,7 +1,6 @@
 * {
 	padding: 0;
 	margin: 0;
-	outline: 1px solid orange;
 }
 
 body {
@@ -370,7 +369,8 @@ footer p {
 	color:#d4d4d4;
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
-	margin-left: 25px;
+	margin-left: 55px;
+	margin-bottom:;
 	display: flex;
 }
 .logo footer {
